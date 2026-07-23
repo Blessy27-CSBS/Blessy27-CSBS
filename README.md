@@ -71,12 +71,7 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats-bay-alpha-44.vercel.app/api?username=Blessy27-CSBS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-bay-alpha-44.vercel.app/api/top-langs/?username=Blessy27-CSBS&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+## 📊 GitHub Streak
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blessy27-CSBS&theme=tokyonight&hide_border=true" />
