@@ -97,6 +97,17 @@
 
 <br>
 
+## 🏅 Certifications
+
+<div align="center">
+
+[![Python](https://img.shields.io/badge/HackerRank-Python%20★-3776AB?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rjblessy2006)
+[![SQL](https://img.shields.io/badge/HackerRank-SQL%20★★★-4479A1?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rjblessy2006)
+
+</div>
+
+<br>
+
 ## 🌐 Connect with Me
 
 <div align="center">
