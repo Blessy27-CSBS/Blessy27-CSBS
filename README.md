@@ -74,7 +74,7 @@
 ## 📊 GitHub Streak
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Blessy27-CSBS&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Blessy27-CSBS&theme=default&hide_border=true&background=FFFFFF&stroke=E4E2E2&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" />
 </div>
 
 <br>
@@ -82,7 +82,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Blessy27-CSBS&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Blessy27-CSBS&theme=minimal&hide_border=true&area=true&color=2F80ED&line=2F80ED&point=2F80ED" width="95%" />
 </div>
 
 <br>
