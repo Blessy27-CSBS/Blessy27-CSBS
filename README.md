@@ -13,10 +13,9 @@
 
 - 🎓 B.Tech, Computer Science &amp; Business Systems @ KGiSL Institute of Technology, Coimbatore (2024 – 2028)
 - 💼 Interning on **Zoho platform development** (CRM / Desk / Bigin extensions with AI) and **Database &amp; Data Warehouse Management**
-- 🤖 Building AI-powered extensions using **Deluge scripting**, **Sigma IDE**, and **LLM integration** (GLM-4.7-Flash via Z.ai, Zoho Catalyst QuickML)
+- 🤖 Building AI-powered extensions using **Deluge scripting**, **Sigma IDE**, and **LLM integration**
 - 📊 Interested in **Machine Learning** and **Data Science**
 - 🌱 Currently deepening my skills in SQL, data warehousing, and applied ML
-- 💬 Ask me about Zoho Deluge, CRM/Desk/Bigin extensions, or SQL/PostgreSQL
 
 <br>
 
@@ -41,7 +40,6 @@
 ![Zoho CRM](https://img.shields.io/badge/Zoho%20CRM-C8202F?style=for-the-badge&logo=zoho&logoColor=white)
 ![Zoho Desk](https://img.shields.io/badge/Zoho%20Desk-089949?style=for-the-badge&logo=zoho&logoColor=white)
 ![Bigin](https://img.shields.io/badge/Bigin-0C6DFD?style=for-the-badge)
-![Zoho Catalyst](https://img.shields.io/badge/Zoho%20Catalyst-1A73E8?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -53,21 +51,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
-
-<br>
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| **AI Promise Tracker** (Zoho CRM) | Analyzes Deal records, Notes, Meetings &amp; Calls to generate a 5-section AI summary with follow-up task and email creation | Deluge, GLM-4.7-Flash, Catalyst QuickML |
-| **Follow-Up Mail Extension** (Bigin) | Adds a "Send Follow-up Mail" button to Contacts with AI-drafted, personalized emails | Deluge, Bigin SDK, GLM-4.7-Flash (Z.ai) |
-| **Desk–CRM IWC Extension** | Inter-widget communication pulling CRM contact/deal data into Zoho Desk ticket subtabs | Deluge, Zoho Desk SDK, pub/sub messaging |
-| **CRM Sales Assistant** | Integrates a Zia Agent Studio agent into CRM via widget → Deluge → OAuth connector → Zia Agents API | Deluge, Zia Agents API, OAuth |
-| **HR Attrition Prediction** | Predicts employee attrition on the IBM Watson HR dataset (1,470 records) using Logistic Regression, Random Forest &amp; Gradient Boosting | Python, scikit-learn, Pandas |
-| **WMS Database Project** | SQL assignments (joins, subqueries, aggregation, triggers) across 11 tables in a Warehouse Management PostgreSQL DB | PostgreSQL, SQL |
-
-> 💡 Swap the project names above for links to your actual repos, e.g. `[AI Promise Tracker](https://github.com/Blessy27-CSBS/repo-name)`
 
 <br>
 
