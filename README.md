@@ -54,11 +54,14 @@
 
 <br>
 
-## 📊 GitHub Streak
+## 📊 GitHub Stats &amp; Streak
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Blessy27-CSBS&theme=default&hide_border=true&background=FFFFFF&stroke=E4E2E2&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" />
+<img src="https://github-readme-stats.vercel.app/api?username=Blessy27-CSBS&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&icon_color=2F80ED&title_color=2F80ED&text_color=333" height="165" />
+<img src="https://streak-stats.demolab.com/?user=Blessy27-CSBS&theme=default&hide_border=true&background=FFFFFF&stroke=E4E2E2&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" height="165" />
 </div>
+
+> These two update automatically on their own — no setup needed. They pull live from the GitHub API on every page load, so a newly created repo or a fresh commit shows up the next time your profile is viewed (allow a few minutes for caching).
 
 <br>
 
@@ -68,6 +71,17 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blessy27-CSBS&theme=minimal&hide_border=true&area=true&color=2F80ED&line=2F80ED&point=2F80ED" width="95%" />
 </div>
 
+> ⚠️ This graph is served by a shared free instance that's known to be flaky (rate-limited / occasionally down). If it doesn't render, see the "Making things more reliable" note at the bottom — the fix is deploying your own copy, which takes ~5 minutes and then never breaks again.
+
+<br>
+
+## 🕒 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+> This section is filled in automatically by a GitHub Action (see setup below) and lists your last few events — commits, new repos, PRs, stars — refreshed on a schedule and every time you push.
+
 <br>
 
 ## 🐍 Contribution Snake
@@ -75,8 +89,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Blessy27-CSBS/Blessy27-CSBS/output/github-contribution-grid-snake.svg" width="95%" />
 </div>
-
-> 🐍 The snake animation needs a one-time GitHub Actions setup — see the note below.
 
 <br>
 
