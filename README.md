@@ -54,14 +54,13 @@
 
 <br>
 
-## 📊 GitHub Stats &amp; Streak
+## 📊 GitHub Streak
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Blessy27-CSBS&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&icon_color=2F80ED&title_color=2F80ED&text_color=333" height="165" />
-<img src="https://streak-stats.demolab.com/?user=Blessy27-CSBS&theme=default&hide_border=true&background=FFFFFF&stroke=E4E2E2&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" height="165" />
+<img src="https://streak-stats.demolab.com/?user=Blessy27-CSBS&theme=default&hide_border=false&background=FFFFFF&stroke=E4E2E2&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" height="165" />
 </div>
 
-> These two update automatically on their own — no setup needed. They pull live from the GitHub API on every page load, so a newly created repo or a fresh commit shows up the next time your profile is viewed (allow a few minutes for caching).
+> Updates automatically on its own — no setup needed. It pulls live from the GitHub API on every page load, so a newly created repo or a fresh commit shows up the next time your profile is viewed (allow a few minutes for caching).
 
 <br>
 
