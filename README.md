@@ -60,18 +60,6 @@
 <img src="https://streak-stats.demolab.com/?user=Blessy27-CSBS&theme=default&hide_border=false&background=FFFFFF&stroke=E4E2E2&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" height="165" />
 </div>
 
-> Updates automatically on its own — no setup needed. It pulls live from the GitHub API on every page load, so a newly created repo or a fresh commit shows up the next time your profile is viewed (allow a few minutes for caching).
-
-<br>
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Blessy27-CSBS&theme=minimal&hide_border=true&area=true&color=2F80ED&line=2F80ED&point=2F80ED" width="95%" />
-</div>
-
-> ⚠️ This graph is served by a shared free instance that's known to be flaky (rate-limited / occasionally down). If it doesn't render, see the "Making things more reliable" note at the bottom — the fix is deploying your own copy, which takes ~5 minutes and then never breaks again.
-
 <br>
 
 ## 🕒 Recent GitHub Activity
