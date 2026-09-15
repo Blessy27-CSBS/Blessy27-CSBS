@@ -54,20 +54,10 @@
 
 <br>
 
-## 📊 GitHub Streak
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Blessy27-CSBS&theme=default&hide_border=false&background=FFFFFF&stroke=E4E2E2&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" height="165" />
-</div>
-
-<br>
-
 ## 🕒 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-> This section is filled in automatically by a GitHub Action (see setup below) and lists your last few events — commits, new repos, PRs, stars — refreshed on a schedule and every time you push.
 
 <br>
 
@@ -90,21 +80,6 @@
 
 <br>
 
-## 🏆 Kaggle Progress
-
-<div align="center">
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mariablessyrj)
-
-![Competitions](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mariablessyrj/competition/light)
-![Datasets](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mariablessyrj/dataset/light)
-![Notebooks](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mariablessyrj/notebook/light)
-![Discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mariablessyrj/discussion/light)
-
-</div>
-
-
-<br>
 
 ## 🌐 Connect with Me
 
