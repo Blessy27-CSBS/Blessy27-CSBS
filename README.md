@@ -90,6 +90,22 @@
 
 <br>
 
+## 🏆 Kaggle Progress
+
+<div align="center">
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mariablessyrj)
+
+![Competitions](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mariablessyrj/competition/light)
+![Datasets](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mariablessyrj/dataset/light)
+![Notebooks](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mariablessyrj/notebook/light)
+![Discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mariablessyrj/discussion/light)
+
+</div>
+
+
+<br>
+
 ## 🌐 Connect with Me
 
 <div align="center">
