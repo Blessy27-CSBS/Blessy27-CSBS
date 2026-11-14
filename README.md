@@ -1,9 +1,9 @@
 <div align="center">
 
-<h1>Hi there, I'm Maria Blessy RJ 👋</h1>
-<h3>B.Tech CSBS Student · Zoho Platform Developer Intern · AI &amp; Data Enthusiast</h3>
+<h1>Hi, I'm Maria Blessy RJ 👋</h1>
+<h3>B.Tech CSBS Student · Zoho Extension Developer Intern · AI &amp; Data Enthusiast</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+AI-powered+Zoho+extensions;Exploring+Machine+Learning+%26+Data+Science;CRM+%2B+Desk+%2B+Bigin+%2B+LLMs+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+AI-powered+Applications;Exploring+Machine+Learning+%26+Data+Science;CRM+%2B+Desk+%2B+Bigin+%2B+LLMs+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
 </div>
 
@@ -12,7 +12,7 @@
 ## 🔭 About Me
 
 - 🎓 B.Tech, Computer Science &amp; Business Systems @ KGiSL Institute of Technology, Coimbatore (2024 – 2028)
-- 💼 Interning on **Zoho platform development** (CRM / Desk / Bigin extensions with AI) and **Database &amp; Data Warehouse Management**
+- 💼 Interning on **Zoho Extension development** (CRM / Desk / Bigin extensions with AI) and **Database &amp; Data Warehouse Management**
 - 🤖 Building AI-powered extensions using **Deluge scripting**, **Sigma IDE**, and **LLM integration**
 - 📊 Interested in **Machine Learning** and **Data Science**
 - 🌱 Currently deepening my skills in SQL, data warehousing, and applied ML
